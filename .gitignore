@@ -1,5 +1,4 @@
 # Ignore data files
-data/
 *.csv
 *.db
 
