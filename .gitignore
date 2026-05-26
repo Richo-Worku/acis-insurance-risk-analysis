@@ -1,0 +1,22 @@
+# Ignore data files
+*.csv
+*.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+# data files
+data/
+*.csv
+*.txt
+*.parquet
+# OS
+.DS_Store
+Thumbs.db
